@@ -4,4 +4,4 @@ In case, some content is inspired by some one, there names will be added in "Hel
 
 
 ###### Refered repositories
-[AutomateRegularTasks] (https://github.com/linonymous/AutomateRegularTasks) by Swapnil walke : reference code for every_day
+[AutomateRegularTasks](https://github.com/linonymous/AutomateRegularTasks) by Swapnil walke : reference code for every_day
