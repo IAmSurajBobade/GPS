@@ -1,4 +1,4 @@
-* last update on May 3rd, 27
+last update on May 3rd, 2017
 
 # MySpace
 This repository includes various scripts (automation mostly) to ease the everyday task
@@ -8,7 +8,7 @@ In case, some content is inspired by some one, there names will be added in "ref
 - every_day.py (Opens frequiently used applications and webpages on start-up)
 - clipboard_manager.py* (Save clipboard text to text-file)
 
-###### Refered repositories
+### Refered repositories
 [AutomateRegularTasks](https://github.com/linonymous/AutomateRegularTasks) | reference code for every_day
 
 ### Contributing Code
@@ -18,5 +18,5 @@ I can't wait to see how creative you are !!!
 
 Happy coding!
 
-###### Foot notes
-- * = perticular file with '*' mark is under development
+### Foot notes
+- files under development are marked with a star (*)
