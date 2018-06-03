@@ -1,4 +1,4 @@
-# MySpace
+# GPS (General Purpose Scripts)
 This repository includes various scripts (automation mostly) to ease the everyday task
 In case, some content is inspired by some one, there names will be added in "refered Repositories" section below
 
